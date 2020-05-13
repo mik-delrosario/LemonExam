@@ -1,0 +1,11 @@
+// Import database before running web application
+UserAccount Table is needed for Authorization
+
+// All transaction must contain Bearer Token
+Required Headers:) 
+Authorization =  { Bearer:sampleRandomToken }
+
+// Get your Token using this URL
+endpoint:) api/v1/account/access/1
+Required Headers:) 
+Authorization =  { lemontech:lemontech123 }

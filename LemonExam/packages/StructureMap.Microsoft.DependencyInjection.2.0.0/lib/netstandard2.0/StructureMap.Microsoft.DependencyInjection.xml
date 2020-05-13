@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StructureMap.Microsoft.DependencyInjection</name>
+    </assembly>
+    <members>
+        <member name="M:StructureMap.ContainerExtensions.Populate(StructureMap.IContainer,System.Collections.Generic.IEnumerable{Microsoft.Extensions.DependencyInjection.ServiceDescriptor})">
+            <summary>
+            Populates the container using the specified service descriptors.
+            </summary>
+            <remarks>
+            This method should only be called once per container.
+            </remarks>
+            <param name="container">The container.</param>
+            <param name="descriptors">The service descriptors.</param>
+        </member>
+        <member name="M:StructureMap.ContainerExtensions.Populate(StructureMap.IContainer,System.Collections.Generic.IEnumerable{Microsoft.Extensions.DependencyInjection.ServiceDescriptor},System.Boolean)">
+            <summary>
+            Populates the container using the specified service descriptors.
+            </summary>
+            <remarks>
+            This method should only be called once per container.
+            </remarks>
+            <param name="container">The container.</param>
+            <param name="descriptors">The service descriptors.</param>
+            <param name="checkDuplicateCalls">Specifies whether duplicate calls to Populate should throw.</param>
+        </member>
+        <member name="M:StructureMap.ContainerExtensions.Populate(StructureMap.ConfigurationExpression,System.Collections.Generic.IEnumerable{Microsoft.Extensions.DependencyInjection.ServiceDescriptor})">
+            <summary>
+            Populates the container using the specified service descriptors.
+            </summary>
+            <remarks>
+            This method should only be called once per container.
+            </remarks>
+            <param name="config">The configuration.</param>
+            <param name="descriptors">The service descriptors.</param>
+        </member>
+        <member name="M:StructureMap.ContainerExtensions.Populate(StructureMap.ConfigurationExpression,System.Collections.Generic.IEnumerable{Microsoft.Extensions.DependencyInjection.ServiceDescriptor},System.Boolean)">
+            <summary>
+            Populates the container using the specified service descriptors.
+            </summary>
+            <remarks>
+            This method should only be called once per container.
+            </remarks>
+            <param name="config">The configuration.</param>
+            <param name="descriptors">The service descriptors.</param>
+            <param name="checkDuplicateCalls">Specifies whether duplicate calls to Populate should throw.</param>
+        </member>
+        <member name="M:StructureMap.ContainerExtensions.Populate(StructureMap.Registry,System.Collections.Generic.IEnumerable{Microsoft.Extensions.DependencyInjection.ServiceDescriptor})">
+            <summary>
+            Populates the registry using the specified service descriptors.
+            </summary>
+            <remarks>
+            This method should only be called once per container.
+            </remarks>
+            <param name="registry">The registry.</param>
+            <param name="descriptors">The service descriptors.</param>
+        </member>
+        <member name="M:StructureMap.ContainerExtensions.Populate(StructureMap.Registry,System.Collections.Generic.IEnumerable{Microsoft.Extensions.DependencyInjection.ServiceDescriptor},System.Boolean)">
+            <summary>
+            Populates the registry using the specified service descriptors.
+            </summary>
+            <remarks>
+            This method should only be called once per container.
+            </remarks>
+            <param name="registry">The registry.</param>
+            <param name="descriptors">The service descriptors.</param>
+            <param name="checkDuplicateCalls">Specifies whether duplicate calls to Populate should throw.</param>
+        </member>
+        <member name="M:StructureMap.StructureMapServiceProvider.StartNewScope">
+            <summary>
+            Creates a new StructureMap child container and makes that the new active container
+            </summary>
+        </member>
+        <member name="M:StructureMap.StructureMapServiceProvider.TeardownScope">
+            <summary>
+            Tears down any active child container and pops it out of the active container stack
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,17 @@
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.csprojAssemblyReference.cache
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.csproj.CoreCompileInputs.cache
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.RazorAssemblyInfo.cache
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.RazorAssemblyInfo.cs
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.AssemblyInfoInputs.cache
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.AssemblyInfo.cs
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.RazorTargetAssemblyInfo.cache
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.deps.json
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.runtimeconfig.json
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.runtimeconfig.dev.json
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.dll
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.pdb
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.dll
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.pdb
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.Model.dll
+C:\Users\mikde\source\repos\LemonExam\LemonExam\bin\Debug\netcoreapp2.1\LemonExam.Model.pdb
+C:\Users\mikde\source\repos\LemonExam\LemonExam\obj\Debug\netcoreapp2.1\LemonExam.csproj.CopyComplete
